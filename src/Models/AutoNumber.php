@@ -1,6 +1,6 @@
 <?php
 
-namespace Alfa6661\AutoNumber\Models;
+namespace Yudi1212\AutoNumber\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
