@@ -1,8 +1,8 @@
 <?php
 
-namespace Alfa6661\AutoNumber\Observers;
+namespace Yudi1212\AutoNumber\Observers;
 
-use Alfa6661\AutoNumber\AutoNumber;
+use Yudi1212\AutoNumber\AutoNumber;
 use Illuminate\Database\Eloquent\Model;
 
 class AutoNumberObserver

@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Alfa6661\\AutoNumber\\": "src"
+            "Yudi1212\\AutoNumber\\": "src"
         }
     },
     "minimum-stability": "dev",
@@ -29,7 +29,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Alfa6661\\AutoNumber\\AutoNumberServiceProvider"
+                "Yudi1212\\AutoNumber\\AutoNumberServiceProvider"
             ]
         }
     }

@@ -1,8 +1,8 @@
 <?php
 
-namespace Alfa6661\AutoNumber;
+namespace Yudi1212\AutoNumber;
 
-use Alfa6661\AutoNumber\Observers\AutoNumberObserver;
+use Yudi1212\AutoNumber\Observers\AutoNumberObserver;
 use Illuminate\Support\ServiceProvider;
 
 class AutoNumberServiceProvider extends ServiceProvider
