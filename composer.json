@@ -1,5 +1,5 @@
 {
-    "name": "yudifaturohman_/autonumber",
+    "name": "yudifaturohman/autonumber",
     "description": "Laravel package to create autonumber for Eloquent model",
     "keywords": [
         "laravel",
