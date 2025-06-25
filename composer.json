@@ -1,12 +1,12 @@
 {
-    "name": "yudifaturohman/laravel-tes",
+    "name": "yudifaturohman_/autonumber",
     "description": "Laravel package to create autonumber for Eloquent model",
     "keywords": [
         "laravel",
         "eloquent",
         "autonumber"
     ],
-    "homepage": "https://github.com/yudifaturohman/laravel-tes.git",
+    "homepage": "https://github.com/yudifaturohman_/autonumber.git",
     "license": "MIT",
     "authors": [
         {
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Yudi1212\\AutoNumber\\": "src"
+            "Yudi\\AutoNumber\\": "src"
         }
     },
     "minimum-stability": "dev",
@@ -29,7 +29,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Yudi1212\\AutoNumber\\AutoNumberServiceProvider"
+                "Yudi\\AutoNumber\\AutoNumberServiceProvider"
             ]
         }
     }
